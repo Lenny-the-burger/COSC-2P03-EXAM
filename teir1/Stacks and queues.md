@@ -1,3 +1,5 @@
+# Stacks and queues
+
 -   Chapter 3 covers the topics of stacks and queues.
 -   Understand the usage and implementation of stacks and queues.
 -   Be familiar with the concept of a double-ended queue (deque).
