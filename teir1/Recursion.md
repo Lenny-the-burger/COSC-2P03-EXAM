@@ -1,3 +1,5 @@
+# Recursion
+
 -   Chapter 1 covers the topic of recursion.
 -   Understand the rules for recursion, including the base case and the progress towards the base case.
 -   Be able to determine when recursion should be used and when it should be avoided.
