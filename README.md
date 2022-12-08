@@ -11,7 +11,7 @@ Recursion is a method of solving a problem by defining a function that calls its
 ## [Stacks and queues](teir1/Stacks%20and%20queues.md)
 Stacks and queues are data structures that store and retrieve items in a particular order. Stacks use the last-in, first-out (LIFO) order, while queues use the first-in, first-out (FIFO) order.
 
-## [Trees](teir1/Hashing.md)
+## [Trees](teir1/Trees.md)
 Trees are data structures that consist of nodes connected by edges. They have a hierarchical structure and can be used to store and organize data in many different ways.
 
 ## [Sorting](teir1/Sorting.md)
