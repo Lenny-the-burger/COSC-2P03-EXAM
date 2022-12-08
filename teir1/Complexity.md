@@ -1,3 +1,5 @@
+# Complexity
+
 -   Chapter 2 covers the topic of complexity.
 -   Know the relative order of common complexity classes: constant, logarithmic, linear, polynomial, and exponential.
 -   Be able to express the complexity of a given algorithm using big O notation.
