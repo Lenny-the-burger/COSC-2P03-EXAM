@@ -1,3 +1,5 @@
+# Trees
+
 -   Chapter 4 covers the topic of trees.
 -   Understand the definitions and properties of different types of trees, including general trees, binary trees, and threaded trees.
 -   Know how to represent, manipulate, and traverse trees, including recursive, iterative, and threaded traversals.
