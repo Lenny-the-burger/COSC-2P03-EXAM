@@ -1,3 +1,5 @@
+# Hashing
+
 -   Chapter 5 covers the topic of hashing.
 -   Understand the definitions and properties of hashing, including collisions, collision resolution policies, and the load factor.
 -   Be familiar with the concept of separate chaining and buckets.
