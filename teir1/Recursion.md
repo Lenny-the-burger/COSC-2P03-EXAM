@@ -4,7 +4,7 @@
 -   Understand the rules for recursion, including the base case and the progress towards the base case.
 -   Be able to determine when recursion should be used and when it should be avoided.
 -   Know the time complexity of recursive algorithms, and be able to convert recursive algorithms to iterative algorithms and vice versa.
--  See [[Recursion]] for more details
+-  See [Recursion](teir1/Recursion.md) for more details
 
 Recursion is a method of solving a problem by defining a function that calls itself with simpler input values until it reaches a base case, at which point it can be solved directly. This allows for a divide-and-conquer approach to problem solving, where a complex problem is divided into smaller subproblems that can be solved independently and then combined to solve the original problem.
 
