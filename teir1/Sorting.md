@@ -1,3 +1,5 @@
+# Sorting
+
 -   Chapter 7 covers the topic of sorting.
 -   Know how to implement and compare the following sorting algorithms:
     -   Heapsort (both ways)
